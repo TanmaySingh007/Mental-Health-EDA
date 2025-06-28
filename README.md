@@ -113,7 +113,7 @@ The dataset includes 1,200+ responses and covers:
 
 - Compared proportions of men, women, and others seeking treatment
 
-> ![Step 9](screenshots/step9_gender.png)
+> ![Step 9](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/18e307a7eebc5ffad9bf8cb9180e49b0b890ef53/9.png)
 
 ---
 
