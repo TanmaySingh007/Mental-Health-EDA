@@ -101,7 +101,7 @@ The dataset includes 1,200+ responses and covers:
 - Horizontal bar plot of top 10 strongest factors related to seeking treatment
 
  
-> ![Step 8](screenshots/step8_corr_plot.png)
+> ![Step 8](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/64e99d2509ec8b899e7c6270a06d6b41e2404c8b/8.png)
 
 ---
 
