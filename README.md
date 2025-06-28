@@ -148,7 +148,7 @@ The dataset includes 1,200+ responses and covers:
 - Analyzed if tech companies were more supportive of mental health treatment
 
  
-> ![Step 13](screenshots/step13_tech_nontech.png)
+> ![Step 13](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/2b287acb9ae12e98801371ab1f66fe2085dc12da/13.png)
 
 ---
 
