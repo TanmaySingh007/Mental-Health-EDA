@@ -52,7 +52,7 @@ The dataset includes 1,200+ responses and covers:
 - Bar chart of top 10 countries' treatment rates
 
 
-> ![Step 3](screenshots/step3_country_bar.png)
+> ![Step 3](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/36801a679e2a6511a98a54e6eb90bc15ba42e92d/3.png)
 
 ---
 
