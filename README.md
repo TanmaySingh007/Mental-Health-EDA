@@ -92,7 +92,7 @@ The dataset includes 1,200+ responses and covers:
   - Anonymity
   - Supervisor/coworker support
  
-> ![Step 7](screenshots/step7_correlations.png)
+> ![Step 7](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/531dc19eb5aca1a7ce1de3639ade34f35fb1ad5d/7.png)
 
 ---
 
