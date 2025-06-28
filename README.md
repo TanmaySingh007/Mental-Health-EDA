@@ -80,7 +80,7 @@ The dataset includes 1,200+ responses and covers:
 - Prepared for correlation analysis
 
  
-> ![Step 6](screenshots/step6_binary_map.png)
+> ![Step 6](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/148cf9167c74817c289c31daa6ebe8189dbf923c/6.png)
 
 ---
 
