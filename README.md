@@ -121,7 +121,7 @@ The dataset includes 1,200+ responses and covers:
 
 - Explored how different genders reported mental health interfering with work
 
-> ![Step 10](screenshots/step10_work_interfere.png)
+> ![Step 10](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/3e724b5e37548507d9bab64ad1d1ac9886dab64f/10.png)
 
 ---
 
