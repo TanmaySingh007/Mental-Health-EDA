@@ -130,7 +130,7 @@ The dataset includes 1,200+ responses and covers:
 - Found trends in mental health support based on company size
 
   
-> ![Step 11](screenshots/step11_company_size.png)
+> ![Step 11](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/d6da94908defe571d5fba0e6bfc7017a9f5db8b2/11.png)
 
 ---
 
