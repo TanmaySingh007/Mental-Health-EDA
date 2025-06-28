@@ -32,8 +32,8 @@ The dataset includes 1,200+ responses and covers:
 - Filtered out unrealistic ages
 - Normalized gender values into **Male**, **Female**, and **Other**
 
-> _Optional Screenshot_:  
-> ![Step 1](screenshots/step1_cleaning.png)
+> _EDA Step by step  Screenshot_:  
+> ![Step 1](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/80974f827baea038ae0ad5e676090667eece0359/1.png)
 
 ---
 
