@@ -139,7 +139,7 @@ The dataset includes 1,200+ responses and covers:
 - Compared remote vs on-site workers in terms of seeking help
 
 
-> ![Step 12](screenshots/step12_remote.png)
+> ![Step 12](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/50be451dbadc2e27b6f714b391b0ae29807b3a72/12.png)
 
 ---
 
