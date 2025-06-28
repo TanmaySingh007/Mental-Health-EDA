@@ -42,8 +42,8 @@ The dataset includes 1,200+ responses and covers:
 - Computed the percentage of people seeking treatment per country
 - Selected top 10 countries with highest treatment rates
 
-> _Optional Screenshot_:  
-> ![Step 2](screenshots/step2_treatment_country.png)
+ 
+> ![Step 2](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/9dbf6e5e9446fc6628cc6ea9988be4daeaa4aea6/2.png)
 
 ---
 
@@ -51,7 +51,7 @@ The dataset includes 1,200+ responses and covers:
 
 - Bar chart of top 10 countries' treatment rates
 
-> _Optional Screenshot_:  
+
 > ![Step 3](screenshots/step3_country_bar.png)
 
 ---
@@ -61,7 +61,7 @@ The dataset includes 1,200+ responses and covers:
 - Analyzed responses to: _"Does your employer treat mental health as seriously as physical health?"_
 - Filtered by top countries
 
-> _Optional Screenshot_:  
+
 > ![Step 4](screenshots/step4_attitudes.png)
 
 ---
@@ -69,8 +69,7 @@ The dataset includes 1,200+ responses and covers:
 ### ✅ Step 5: Attitude Comparison Chart
 
 - Stacked bar chart of mental vs physical health attitude comparison
-
-> _Optional Screenshot_:  
+  
 > ![Step 5](screenshots/step5_attitude_chart.png)
 
 ---
@@ -80,7 +79,7 @@ The dataset includes 1,200+ responses and covers:
 - Mapped all key survey responses to numeric (Yes = 1, No = 0, Maybe = 0.5)
 - Prepared for correlation analysis
 
-> _Optional Screenshot_:  
+ 
 > ![Step 6](screenshots/step6_binary_map.png)
 
 ---
@@ -92,8 +91,7 @@ The dataset includes 1,200+ responses and covers:
   - Mental health benefits
   - Anonymity
   - Supervisor/coworker support
-
-> _Optional Screenshot_:  
+ 
 > ![Step 7](screenshots/step7_correlations.png)
 
 ---
@@ -102,7 +100,7 @@ The dataset includes 1,200+ responses and covers:
 
 - Horizontal bar plot of top 10 strongest factors related to seeking treatment
 
-> _Optional Screenshot_:  
+ 
 > ![Step 8](screenshots/step8_corr_plot.png)
 
 ---
@@ -115,7 +113,6 @@ The dataset includes 1,200+ responses and covers:
 
 - Compared proportions of men, women, and others seeking treatment
 
-> _Optional Screenshot_:  
 > ![Step 9](screenshots/step9_gender.png)
 
 ---
@@ -124,7 +121,6 @@ The dataset includes 1,200+ responses and covers:
 
 - Explored how different genders reported mental health interfering with work
 
-> _Optional Screenshot_:  
 > ![Step 10](screenshots/step10_work_interfere.png)
 
 ---
@@ -133,7 +129,7 @@ The dataset includes 1,200+ responses and covers:
 
 - Found trends in mental health support based on company size
 
-> _Optional Screenshot_:  
+  
 > ![Step 11](screenshots/step11_company_size.png)
 
 ---
@@ -142,7 +138,7 @@ The dataset includes 1,200+ responses and covers:
 
 - Compared remote vs on-site workers in terms of seeking help
 
-> _Optional Screenshot_:  
+
 > ![Step 12](screenshots/step12_remote.png)
 
 ---
@@ -151,7 +147,7 @@ The dataset includes 1,200+ responses and covers:
 
 - Analyzed if tech companies were more supportive of mental health treatment
 
-> _Optional Screenshot_:  
+ 
 > ![Step 13](screenshots/step13_tech_nontech.png)
 
 ---
@@ -159,8 +155,7 @@ The dataset includes 1,200+ responses and covers:
 ### ✅ Step 14: Heatmap – Gender vs Company Size
 
 - Created a heatmap showing the interaction between **gender** and **company size** in treatment rates
-
-> _Optional Screenshot_:  
+  
 > ![Step 14](screenshots/step14_heatmap.png)
 
 ---
