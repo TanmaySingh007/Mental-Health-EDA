@@ -62,7 +62,7 @@ The dataset includes 1,200+ responses and covers:
 - Filtered by top countries
 
 
-> ![Step 4](screenshots/step4_attitudes.png)
+> ![Step 4](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/16c6696e2932d9e9f0ab17eac8a1489ff8610145/4.png)
 
 ---
 
