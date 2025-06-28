@@ -70,7 +70,7 @@ The dataset includes 1,200+ responses and covers:
 
 - Stacked bar chart of mental vs physical health attitude comparison
   
-> ![Step 5](screenshots/step5_attitude_chart.png)
+> ![Step 5](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/930acd4268bd71234e19bac2ef9cfbb910aff660/5.png)
 
 ---
 
