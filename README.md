@@ -156,7 +156,7 @@ The dataset includes 1,200+ responses and covers:
 
 - Created a heatmap showing the interaction between **gender** and **company size** in treatment rates
   
-> ![Step 14](screenshots/step14_heatmap.png)
+> ![Step 14](https://github.com/TanmaySingh007/Mental-Health-EDA/blob/3fc504c06274b4f53e3d820e654d4afe2f3c6d99/14.png)
 
 ---
 
